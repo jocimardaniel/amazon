@@ -6,7 +6,6 @@ Resource  ../Resources/AmazonApp.robot  # necessary for lower level keywords in 
 Test Setup  Begin Web Test
 Test Teardown  End Web Test
 
-
 # Copy/paste the below line to Terminal window to execute adfadf
 # robot -d results tests/amazon.robot
 
