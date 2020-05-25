@@ -1,5 +1,5 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/amazon/results/*.log
-/amazon/results/*.png
+amazon/**/*.log
+amazon/**/*.png
